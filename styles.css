@@ -17,7 +17,7 @@ ol {  list-style-type: lower-alpha;
 ul {list-style-type: square;
 }
 
-SUV.profile-img {border-style: dotted; width: 200px;
+div.profile-img {border-style: dotted; width: 200px;
   height: 200px;
 }
 
