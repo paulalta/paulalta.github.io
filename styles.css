@@ -1,6 +1,9 @@
-background-color: ivory
+body {
+  
+background-color: ivory;
+}
 h1 { 
-  font-size: 200px
+  font-size: 200px;
 }
 p {
   font-size: 160px;
