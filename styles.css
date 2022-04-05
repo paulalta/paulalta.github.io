@@ -1,12 +1,12 @@
 body {
   
 background: ivory;
-color: red;
+color: rgb(255,0,0);
   h1 { 
-  font-size: 200px;
+  font-size: 20px;
 }
 p {
-  font-size: 160px;
+  font-size: 16px;
   color: dark blue;
   }
 }
