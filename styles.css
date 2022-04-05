@@ -1,6 +1,7 @@
 body {
   
-background-color: ivory;
+background: ivory;
+color: red;
   h1 { 
   font-size: 200px;
 }
