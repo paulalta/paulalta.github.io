@@ -8,8 +8,12 @@ body {
  h1 { font-size:20px;
     }
     
-    p { font-size:16px;
+ p { font-size:16px;
         color: darkblue;
         background-color: lavender;
     }
+ol {  list-style-type: lower-alpha;
+}
+ul {list-style-type: square;
+}
 
