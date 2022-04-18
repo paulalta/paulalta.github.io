@@ -4,17 +4,9 @@ body {
     color: gray;
         
 }
-
- h1 { font-size:30px;
-      border: 2px solid green;
-border-radius: 5px;
-margin: 25px 25px 25px 25px;
-  
-   }
     
  p { font-size:16px;
-        color: gray;
-        background-color: mintcream;
+        
     }
 ol {  list-style-type: lower-alpha;
 }
@@ -31,4 +23,35 @@ padding: 15px;
 border-radius: 5px;
 font-size:20px;
 margin: 25px 25px 25px 25px;
+}
+
+header {
+font-size:25px;
+      border: 2px solid green;
+border-radius: 5px;
+margin: 25px 25px 25px 25px;
+ background-color: lightgray;
+color: green
+}
+
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+section {
+background-color: greenyellow;
+}
+
+article {
+background-color: white;
+}
+
+footer {
+background-color: yellow;
 }
