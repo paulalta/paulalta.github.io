@@ -5,12 +5,16 @@ body {
         
 }
 
- h1 { font-size:20px;
-    }
+ h1 { font-size:30px;
+      border: 2px solid green;
+border-radius: 5px;
+margin: 25px 25px 25px 25px;
+  
+   }
     
  p { font-size:16px;
-        color: darkblue;
-        background-color: lavender;
+        color: gray;
+        background-color: mintcream;
     }
 ol {  list-style-type: lower-alpha;
 }
@@ -19,4 +23,12 @@ ul {list-style-type: square;
 
 div.profile-img {border-style: dotted; width: 200px;
   height: 200px;
+}
+
+div.Linkit {
+background-color: darkseagreen;
+padding: 15px;
+border-radius: 5px;
+font-size:20px;
+margin: 25px 25px 25px 25px;
 }
