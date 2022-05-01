@@ -1,39 +1,48 @@
 body {
   
-    background-color: ivory;
-    color: gray;
-        
+    background-color: linen;
+    color: seagreen;
+    font-family: Georgia;
+    margin-left: 200px;
 }
-    
- p { font-size:16px;
-        
-    }
+
+header {
+font-size:15px;
+padding-top: 30px;
+color: darkgreen;
+}
+
+nav{ font-weight: bold;
+font-size: 20px;
+font-family: arial;
+}
+
+div.kokemus{
+padding: 10px 10px 10px 20px;
+margin: 5px;
+border-radius: 5px;
+background-color: lightgray;
+line-height: 12px;
+
+}
+ 
 ol {  list-style-type: lower-alpha;
 }
 ul {list-style-type: square;
 }
 
-div.profile-img {border-style: dotted; width: 200px;
-  height: 200px;
+div.profile-img {
+padding-left: 75px;
 }
 
-div.Linkit {
-background-color: darkseagreen;
-padding: 15px;
-border-radius: 5px;
-font-size:20px;
-margin: 25px 25px 25px 25px;
+label {
+padding-left: 10px;
+font-size: 20px;
 }
-
-header {
-font-size:25px;
-      border: 2px solid green;
-border-radius: 5px;
-margin: 25px 25px 25px 25px;
- background-color: lightgray;
-color: green
+progress {
+accent-color: green;
+padding-right: 10px;
 }
-
 
 aside {
   width: 30%;
@@ -41,17 +50,27 @@ aside {
   margin-left: 15px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+  font-family:palatino linotype;
+  background-color: mediumseagreen;
+  color: ivory
 }
 
 section {
-background-color: greenyellow;
+width: 50%
 }
 
 article {
-background-color: white;
+padding: 10px 10px 10px 20px;
+margin: 5px;
+border-radius: 5px;
+background-color: lightgray;
+width: 46%;
+
 }
 
 footer {
-background-color: yellow;
+margin: 5px;
+border-radius: 5px;
+background-color: lightgray;
 }
+
